@@ -1,0 +1,26 @@
+{
+    "id": "D0A91FD7",
+    "path": "~/Documents/projects/R_programing_101/01_import_data_from_excel.R",
+    "project_path": "01_import_data_from_excel.R",
+    "type": "r_source",
+    "hash": "3075241083",
+    "contents": "",
+    "dirty": false,
+    "created": 1680002805797.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,20",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680002869,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680002869014,
+    "read_only": false,
+    "read_only_alternatives": []
+}

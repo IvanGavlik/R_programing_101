@@ -1,0 +1,501 @@
+﻿Row ID,State,Region,Category,Sub-Category,Sales,Profit
+1,Kentucky,South,Furniture,Bookcases,261.96,41.9136
+2,Kentucky,South,Furniture,Chairs,731.94,219.582
+3,California,West,Office Supplies,Labels,14.62,6.8714
+4,Florida,South,Furniture,Tables,957.5775,-383.031
+5,Florida,South,Office Supplies,Storage,22.368,2.5164
+6,California,West,Furniture,Furnishings,48.86,14.1694
+7,California,West,Office Supplies,Art,7.28,1.9656
+8,California,West,Technology,Phones,907.152,90.7152
+9,California,West,Office Supplies,Binders,18.504,5.7825
+10,California,West,Office Supplies,Appliances,114.9,34.47
+11,California,West,Furniture,Tables,1706.184,85.3092
+12,California,West,Technology,Phones,911.424,68.3568
+13,North Carolina,South,Office Supplies,Paper,15.552,5.4432
+14,Washington,West,Office Supplies,Binders,407.976,132.5922
+15,Texas,Central,Office Supplies,Appliances,68.81,-123.858
+16,Texas,Central,Office Supplies,Binders,2.544,-3.816
+17,Wisconsin,Central,Office Supplies,Storage,665.88,13.3176
+18,Utah,West,Office Supplies,Storage,55.5,9.99
+19,California,West,Office Supplies,Art,8.56,2.4824
+20,California,West,Technology,Phones,213.48,16.011
+21,California,West,Office Supplies,Binders,22.72,7.384
+22,Nebraska,Central,Office Supplies,Art,19.46,5.0596
+23,Nebraska,Central,Office Supplies,Appliances,60.34,15.6884
+24,Pennsylvania,East,Furniture,Chairs,71.372,-1.0196
+25,Utah,West,Furniture,Tables,1044.63,240.2649
+26,California,West,Office Supplies,Binders,11.648,4.2224
+27,California,West,Technology,Accessories,90.57,11.7741
+28,Pennsylvania,East,Furniture,Bookcases,3083.43,-1665.0522
+29,Pennsylvania,East,Office Supplies,Binders,9.618,-7.0532
+30,Pennsylvania,East,Furniture,Furnishings,124.2,15.525
+31,Pennsylvania,East,Office Supplies,Envelopes,3.264,1.1016
+32,Pennsylvania,East,Office Supplies,Art,86.304,9.7092
+33,Pennsylvania,East,Office Supplies,Binders,6.858,-5.715
+34,Pennsylvania,East,Office Supplies,Art,15.76,3.546
+35,Texas,Central,Office Supplies,Paper,29.472,9.9468
+36,Texas,Central,Technology,Phones,1097.544,123.4737
+37,Texas,Central,Furniture,Furnishings,190.92,-147.963
+38,Texas,Central,Office Supplies,Envelopes,113.328,35.415
+39,Texas,Central,Furniture,Bookcases,532.3992,-46.9764
+40,Texas,Central,Furniture,Chairs,212.058,-15.147
+41,Texas,Central,Technology,Phones,371.168,41.7564
+42,Illinois,Central,Technology,Phones,147.168,16.5564
+43,California,West,Office Supplies,Storage,77.88,3.894
+44,Florida,South,Office Supplies,Storage,95.616,9.5616
+45,Minnesota,Central,Technology,Accessories,45.98,19.7714
+46,Minnesota,Central,Office Supplies,Binders,17.46,8.2062
+47,Michigan,Central,Office Supplies,Storage,211.96,8.4784
+48,Delaware,East,Technology,Accessories,45,4.95
+49,Delaware,East,Technology,Phones,21.8,6.104
+50,Indiana,Central,Office Supplies,Binders,38.22,17.9634
+51,Indiana,Central,Office Supplies,Labels,75.18,35.3346
+52,Indiana,Central,Furniture,Furnishings,6.16,2.9568
+53,Indiana,Central,Furniture,Chairs,89.99,17.0981
+54,New York,East,Office Supplies,Fasteners,15.26,6.2566
+55,New York,East,Technology,Phones,1029.95,298.6855
+56,New York,East,Office Supplies,Storage,208.56,52.14
+57,New York,East,Office Supplies,Paper,32.4,15.552
+58,New York,East,Furniture,Chairs,319.41,7.098
+59,New York,East,Office Supplies,Paper,14.56,6.9888
+60,New York,East,Technology,Accessories,30,3.3
+61,New York,East,Office Supplies,Binders,48.48,16.362
+62,New York,East,Office Supplies,Art,1.68,0.84
+63,California,West,Technology,Accessories,13.98,6.1512
+64,California,West,Office Supplies,Binders,25.824,9.3612
+65,California,West,Office Supplies,Paper,146.73,68.9631
+66,California,West,Furniture,Furnishings,79.76,22.3328
+67,Illinois,Central,Furniture,Chairs,213.115,-15.2225
+68,Arizona,West,Office Supplies,Art,1113.024,111.3024
+69,Arizona,West,Technology,Phones,167.968,62.988
+70,Virginia,South,Office Supplies,Paper,75.88,35.6636
+71,New York,East,Office Supplies,Binders,4.616,1.731
+72,Michigan,Central,Office Supplies,Paper,19.05,8.763
+73,Tennessee,South,Furniture,Chairs,831.936,-114.3912
+74,Tennessee,South,Furniture,Furnishings,97.04,1.213
+75,Tennessee,South,Office Supplies,Storage,72.784,-18.196
+76,Texas,Central,Office Supplies,Binders,1.248,-1.9344
+77,Texas,Central,Furniture,Furnishings,9.708,-5.8248
+78,Texas,Central,Office Supplies,Storage,27.24,2.724
+79,Texas,Central,Furniture,Furnishings,19.3,-14.475
+80,Alabama,South,Office Supplies,Appliances,208.16,56.2032
+81,Alabama,South,Office Supplies,Binders,16.74,8.0352
+82,California,West,Office Supplies,Art,14.9,4.172
+83,California,West,Office Supplies,Storage,21.39,6.2031
+84,North Carolina,South,Office Supplies,Envelopes,200.984,62.8075
+85,Illinois,Central,Office Supplies,Storage,230.376,-48.9549
+86,South Carolina,South,Furniture,Chairs,301.96,33.2156
+87,Minnesota,Central,Technology,Accessories,19.99,6.7966
+88,Minnesota,Central,Office Supplies,Labels,6.16,2.9568
+89,Texas,Central,Office Supplies,Storage,158.368,13.8572
+90,California,West,Office Supplies,Art,20.1,6.633
+91,California,West,Technology,Phones,73.584,8.2782
+92,California,West,Office Supplies,Paper,6.48,3.1104
+93,Minnesota,Central,Office Supplies,Paper,12.96,6.2208
+94,Minnesota,Central,Furniture,Furnishings,53.34,16.5354
+95,Minnesota,Central,Office Supplies,Binders,32.96,16.1504
+96,Oregon,West,Office Supplies,Binders,5.682,-3.788
+97,New York,East,Furniture,Furnishings,96.53,40.5426
+98,California,West,Office Supplies,Binders,51.312,17.9592
+99,Minnesota,Central,Office Supplies,Appliances,77.88,22.5852
+100,Illinois,Central,Office Supplies,Paper,64.624,22.6184
+101,Illinois,Central,Technology,Accessories,95.976,-10.7973
+102,Illinois,Central,Office Supplies,Binders,1.788,-3.0396
+103,Minnesota,Central,Office Supplies,Paper,23.92,11.7208
+104,Colorado,West,Technology,Accessories,238.896,-26.8758
+105,Colorado,West,Furniture,Furnishings,102.36,-3.8385
+106,Colorado,West,Office Supplies,Binders,36.882,-25.8174
+107,North Carolina,South,Technology,Accessories,74.112,17.6016
+108,North Carolina,South,Technology,Phones,27.992,2.0994
+109,North Carolina,South,Office Supplies,Art,3.304,1.0738
+110,Illinois,Central,Technology,Accessories,339.96,67.992
+111,New York,East,Furniture,Furnishings,41.96,10.9096
+112,Iowa,Central,Office Supplies,Art,75.96,22.788
+113,Iowa,Central,Office Supplies,Binders,27.24,13.3476
+114,Ohio,East,Office Supplies,Fasteners,40.096,14.5348
+115,Ohio,East,Office Supplies,Envelopes,4.72,1.652
+116,Ohio,East,Office Supplies,Paper,23.976,7.4925
+117,Ohio,East,Office Supplies,Envelopes,130.464,44.0316
+118,Washington,West,Furniture,Tables,787.53,165.3813
+119,Tennessee,South,Office Supplies,Binders,157.794,-115.7156
+120,Delaware,East,Furniture,Furnishings,47.04,18.3456
+121,Delaware,East,Office Supplies,Binders,30.84,13.878
+122,Delaware,East,Office Supplies,Storage,226.56,63.4368
+123,Delaware,East,Office Supplies,Envelopes,115.02,51.759
+124,Delaware,East,Technology,Phones,68.04,19.7316
+125,Texas,Central,Furniture,Chairs,600.558,-8.5794
+126,Illinois,Central,Furniture,Tables,617.7,-407.682
+127,Arizona,West,Office Supplies,Binders,2.388,-1.8308
+128,Arizona,West,Office Supplies,Storage,243.992,30.499
+129,California,West,Furniture,Chairs,81.424,-9.1602
+130,California,West,Furniture,Furnishings,238.56,26.2416
+131,Ohio,East,Technology,Phones,59.97,-11.994
+132,Ohio,East,Office Supplies,Paper,78.304,29.364
+133,Ohio,East,Office Supplies,Fasteners,21.456,6.9732
+134,California,West,Office Supplies,Paper,20.04,9.6192
+135,California,West,Office Supplies,Paper,35.44,16.6568
+136,California,West,Office Supplies,Art,11.52,3.456
+137,California,West,Office Supplies,Fasteners,4.02,1.9698
+138,California,West,Office Supplies,Binders,76.176,26.6616
+139,California,West,Office Supplies,Supplies,65.88,18.4464
+140,California,West,Furniture,Furnishings,43.12,20.6976
+141,Pennsylvania,East,Furniture,Furnishings,82.8,10.35
+142,California,West,Office Supplies,Art,8.82,2.3814
+143,California,West,Office Supplies,Envelopes,10.86,5.1042
+144,California,West,Office Supplies,Paper,143.7,68.976
+145,Missouri,Central,Office Supplies,Appliances,839.43,218.2518
+146,California,West,Office Supplies,Storage,671.93,20.1579
+147,Ohio,East,Furniture,Furnishings,93.888,12.9096
+148,Wisconsin,Central,Technology,Phones,384.45,103.8015
+149,Wisconsin,Central,Technology,Phones,149.97,5.9988
+150,Wisconsin,Central,Furniture,Chairs,1951.84,585.552
+151,Wisconsin,Central,Office Supplies,Binders,171.55,80.6285
+152,Arizona,West,Office Supplies,Appliances,157.92,17.766
+153,Arizona,West,Technology,Phones,203.184,15.2388
+154,California,West,Office Supplies,Paper,58.38,26.271
+155,California,West,Office Supplies,Paper,105.52,48.5392
+156,California,West,Office Supplies,Storage,80.88,21.0288
+157,Washington,West,Office Supplies,Art,6.63,1.7901
+158,Washington,West,Furniture,Chairs,457.568,51.4764
+159,Oklahoma,Central,Office Supplies,Labels,14.62,6.8714
+160,Oklahoma,Central,Technology,Phones,944.93,236.2325
+161,California,West,Office Supplies,Paper,5.98,2.691
+162,Pennsylvania,East,Technology,Accessories,54.384,1.3596
+163,New Mexico,West,Office Supplies,Envelopes,28.4,13.348
+164,Washington,West,Office Supplies,Binders,27.68,9.688
+165,Texas,Central,Office Supplies,Art,9.936,2.7324
+166,Texas,Central,Technology,Machines,8159.952,-1359.992
+167,Texas,Central,Office Supplies,Storage,275.928,-58.6347
+168,Texas,Central,Furniture,Chairs,1740.06,-24.858
+169,Texas,Central,Office Supplies,Art,32.064,6.8136
+170,Texas,Central,Office Supplies,Appliances,177.98,-453.849
+171,Texas,Central,Technology,Phones,143.976,8.9985
+172,California,West,Office Supplies,Paper,20.94,9.8418
+173,California,West,Office Supplies,Paper,110.96,53.2608
+174,California,West,Furniture,Chairs,340.144,21.259
+175,Illinois,Central,Office Supplies,Appliances,52.448,-131.12
+176,Illinois,Central,Office Supplies,Labels,20.16,6.552
+177,Texas,Central,Office Supplies,Appliances,97.264,-243.16
+178,Ohio,East,Furniture,Chairs,396.802,-11.3372
+179,Ohio,East,Office Supplies,Supplies,15.88,-3.7715
+180,New York,East,Office Supplies,Art,3.28,1.4104
+181,Illinois,Central,Office Supplies,Storage,24.816,1.8612
+182,Illinois,Central,Technology,Accessories,408.744,76.6395
+183,Louisiana,South,Technology,Phones,503.96,131.0296
+184,Louisiana,South,Technology,Phones,149.95,41.986
+185,Louisiana,South,Technology,Accessories,29,7.25
+186,Connecticut,East,Office Supplies,Binders,7.16,3.4368
+187,California,West,Technology,Accessories,176.8,22.984
+188,Texas,Central,Office Supplies,Storage,37.224,3.7224
+189,Texas,Central,Office Supplies,Paper,20.016,6.255
+190,New York,East,Furniture,Bookcases,899.136,112.392
+191,New York,East,Technology,Phones,71.76,20.0928
+192,New York,East,Office Supplies,Paper,51.84,24.8832
+193,New York,East,Furniture,Bookcases,626.352,46.9764
+194,New York,East,Office Supplies,Art,19.9,6.567
+195,California,West,Office Supplies,Envelopes,14.28,6.7116
+196,Ohio,East,Office Supplies,Art,7.408,1.2038
+197,Ohio,East,Office Supplies,Art,6.048,1.5876
+198,New Jersey,East,Office Supplies,Storage,46.26,12.0276
+199,Pennsylvania,East,Office Supplies,Binders,2.946,-2.2586
+200,Pennsylvania,East,Office Supplies,Paper,16.056,5.8203
+201,Ohio,East,Office Supplies,Paper,21.744,6.795
+202,Colorado,West,Furniture,Tables,218.75,-161.875
+203,Colorado,West,Office Supplies,Appliances,2.6,0.2925
+204,Texas,Central,Office Supplies,Appliances,66.284,-178.9668
+205,Tennessee,South,Furniture,Furnishings,35.168,9.6712
+206,California,West,Technology,Phones,444.768,44.4768
+207,Michigan,Central,Office Supplies,Storage,83.92,5.8744
+208,Michigan,Central,Technology,Phones,131.98,35.6346
+209,Michigan,Central,Office Supplies,Binders,15.92,7.4824
+210,Michigan,Central,Office Supplies,Fasteners,52.29,16.2099
+211,Michigan,Central,Office Supplies,Storage,91.99,3.6796
+212,Texas,Central,Technology,Accessories,20.8,6.5
+213,Ohio,East,Office Supplies,Labels,23.68,8.88
+214,Ohio,East,Furniture,Bookcases,452.45,-244.323
+215,Ohio,East,Technology,Phones,62.982,-14.6958
+216,Ohio,East,Technology,Machines,1188,-950.4
+217,Ohio,East,Technology,Accessories,89.584,4.4792
+218,California,West,Office Supplies,Storage,93.06,26.0568
+219,California,West,Technology,Phones,302.376,22.6782
+220,Ohio,East,Office Supplies,Fasteners,5.584,1.8148
+221,Ohio,East,Office Supplies,Paper,22.704,8.2302
+222,Ohio,East,Office Supplies,Binders,19.776,-13.8432
+223,Ohio,East,Furniture,Furnishings,72.704,19.0848
+224,Ohio,East,Technology,Machines,479.988,-383.9904
+225,Ohio,East,Office Supplies,Art,27.168,2.7168
+226,Michigan,Central,Office Supplies,Art,2.2,0.968
+227,Michigan,Central,Furniture,Tables,622.45,136.939
+228,Michigan,Central,Office Supplies,Storage,21.98,0.2198
+229,Tennessee,South,Furniture,Chairs,161.568,-28.2744
+230,Tennessee,South,Furniture,Chairs,389.696,43.8408
+231,North Carolina,South,Office Supplies,Binders,18.648,-12.432
+232,Florida,South,Furniture,Tables,233.86,-102.048
+233,Florida,South,Furniture,Tables,620.6145,-248.2458
+234,Florida,South,Office Supplies,Binders,5.328,-3.552
+235,Florida,South,Furniture,Furnishings,258.072,0
+236,Florida,South,Technology,Accessories,617.976,-7.7247
+237,California,West,Office Supplies,Paper,10.56,4.752
+238,Illinois,Central,Office Supplies,Paper,25.92,9.396
+239,Illinois,Central,Furniture,Furnishings,419.68,-356.728
+240,Illinois,Central,Furniture,Furnishings,11.688,-4.6752
+241,Illinois,Central,Technology,Phones,31.984,11.1944
+242,Illinois,Central,Furniture,Tables,177.225,-120.513
+243,Illinois,Central,Furniture,Furnishings,4.044,-2.8308
+244,Illinois,Central,Office Supplies,Art,7.408,1.2038
+245,Minnesota,Central,Furniture,Chairs,2001.86,580.5394
+246,Minnesota,Central,Office Supplies,Storage,166.72,41.68
+247,Minnesota,Central,Office Supplies,Paper,47.88,23.94
+248,Minnesota,Central,Office Supplies,Appliances,1503.25,496.0725
+249,Minnesota,Central,Office Supplies,Paper,25.92,12.4416
+250,California,West,Furniture,Chairs,321.568,28.1372
+251,California,West,Office Supplies,Paper,7.61,3.5767
+252,California,West,Technology,Accessories,3347.37,636.0003
+253,New York,East,Office Supplies,Storage,80.58,22.5624
+254,New York,East,Office Supplies,Envelopes,361.92,162.864
+255,Illinois,Central,Furniture,Furnishings,12.132,-8.4924
+256,Illinois,Central,Office Supplies,Storage,82.368,-19.5624
+257,Illinois,Central,Office Supplies,Storage,53.92,4.044
+258,Illinois,Central,Technology,Phones,647.904,56.6916
+259,New York,East,Technology,Accessories,20.37,6.9258
+260,New York,East,Office Supplies,Storage,221.55,6.6465
+261,New York,East,Office Supplies,Binders,17.52,6.132
+262,Texas,Central,Office Supplies,Appliances,1.624,-4.466
+263,Texas,Central,Technology,Machines,3059.982,-509.997
+264,Texas,Central,Technology,Machines,2519.958,-251.9958
+265,Illinois,Central,Technology,Phones,328.224,28.7196
+266,California,West,Technology,Accessories,79.9,35.156
+267,North Carolina,South,Office Supplies,Art,14.016,4.7304
+268,New Jersey,East,Office Supplies,Fasteners,7.56,0.3024
+269,Ohio,East,Office Supplies,Storage,37.208,-7.4416
+270,Ohio,East,Office Supplies,Envelopes,57.576,21.591
+271,California,West,Office Supplies,Storage,725.84,210.4936
+272,California,West,Technology,Accessories,209.93,92.3692
+273,California,West,Furniture,Furnishings,5.28,2.3232
+274,California,West,Office Supplies,Binders,10.92,4.095
+275,California,West,Office Supplies,Paper,8.82,4.0572
+276,California,West,Office Supplies,Art,5.98,1.5548
+277,Pennsylvania,East,Office Supplies,Paper,11.648,4.0768
+278,Pennsylvania,East,Office Supplies,Paper,18.176,5.9072
+279,Pennsylvania,East,Office Supplies,Storage,59.712,5.9712
+280,Pennsylvania,East,Office Supplies,Labels,24.84,8.694
+281,Texas,Central,Office Supplies,Binders,2.08,-3.432
+282,Texas,Central,Technology,Phones,1114.4,376.11
+283,California,West,Furniture,Tables,1038.84,51.942
+284,Oregon,West,Office Supplies,Paper,141.76,47.844
+285,Oregon,West,Technology,Accessories,239.8,47.96
+286,Oregon,West,Office Supplies,Paper,31.104,10.8864
+287,Florida,South,Office Supplies,Binders,254.058,-169.372
+288,Florida,South,Office Supplies,Appliances,194.528,24.316
+289,Florida,South,Office Supplies,Supplies,961.48,-204.3145
+290,Ohio,East,Office Supplies,Fasteners,19.096,6.6836
+291,Ohio,East,Office Supplies,Labels,18.496,6.2424
+292,Ohio,East,Technology,Accessories,255.984,54.3966
+293,Ohio,East,Furniture,Bookcases,86.97,-48.7032
+294,Colorado,West,Furniture,Furnishings,300.416,78.8592
+295,Colorado,West,Furniture,Chairs,230.352,20.1558
+296,Colorado,West,Furniture,Furnishings,218.352,-24.5646
+297,Colorado,West,Office Supplies,Binders,78.6,-62.88
+298,Colorado,West,Office Supplies,Fasteners,27.552,9.2988
+299,New Jersey,East,Office Supplies,Paper,32.4,15.552
+300,New Jersey,East,Office Supplies,Storage,1082.48,10.8248
+301,New Jersey,East,Office Supplies,Paper,56.91,27.3168
+302,New Jersey,East,Furniture,Furnishings,77.6,38.024
+303,New Jersey,East,Office Supplies,Binders,14.28,6.5688
+304,Illinois,Central,Furniture,Tables,219.075,-131.445
+305,New York,East,Furniture,Furnishings,26.8,12.864
+306,Michigan,Central,Office Supplies,Art,9.84,2.8536
+307,New Jersey,East,Office Supplies,Binders,45.48,20.9208
+308,New Jersey,East,Office Supplies,Art,289.2,83.868
+309,Virginia,South,Office Supplies,Art,4.89,2.0049
+310,Colorado,West,Furniture,Furnishings,15.136,3.5948
+311,Colorado,West,Furniture,Chairs,466.768,52.5114
+312,Colorado,West,Furniture,Furnishings,15.232,1.7136
+313,Colorado,West,Office Supplies,Labels,6.264,2.0358
+314,New Jersey,East,Furniture,Furnishings,87.54,37.6422
+315,Florida,South,Technology,Phones,178.384,22.298
+316,Florida,South,Office Supplies,Paper,15.552,5.4432
+317,Pennsylvania,East,Office Supplies,Art,99.136,8.6744
+318,New York,East,Furniture,Chairs,135.882,24.1568
+319,New York,East,Technology,Machines,3991.98,1995.99
+320,New York,East,Technology,Phones,275.94,80.0226
+321,New York,East,Technology,Accessories,360,129.6
+322,New York,East,Office Supplies,Storage,43.57,13.071
+323,California,West,Office Supplies,Fasteners,7.16,3.58
+324,California,West,Office Supplies,Binders,251.52,81.744
+325,California,West,Technology,Accessories,99.99,34.9965
+326,Tennessee,South,Furniture,Furnishings,15.992,0.9995
+327,Pennsylvania,East,Technology,Phones,290.898,-67.8762
+328,Pennsylvania,East,Office Supplies,Storage,54.224,3.389
+329,Pennsylvania,East,Furniture,Chairs,786.744,-258.5016
+330,Pennsylvania,East,Office Supplies,Labels,100.24,33.831
+331,Pennsylvania,East,Office Supplies,Binders,37.764,-27.6936
+332,Pennsylvania,East,Technology,Phones,82.8,-20.7
+333,Pennsylvania,East,Office Supplies,Binders,20.724,-13.816
+334,Pennsylvania,East,Office Supplies,Binders,4.896,-3.4272
+335,California,West,Office Supplies,Binders,4.752,1.6038
+336,California,West,Technology,Copiers,959.984,335.9944
+337,California,West,Office Supplies,Binders,14.368,4.49
+338,California,West,Office Supplies,Binders,7.712,2.7956
+339,California,West,Furniture,Tables,698.352,-17.4588
+340,Utah,West,Office Supplies,Fasteners,4.96,2.3312
+341,Pennsylvania,East,Office Supplies,Art,17.856,1.116
+342,Pennsylvania,East,Office Supplies,Binders,509.97,-407.976
+343,Pennsylvania,East,Office Supplies,Fasteners,30.992,10.0724
+344,Pennsylvania,East,Technology,Phones,71.928,8.3916
+345,Texas,Central,Office Supplies,Storage,88.8,-2.22
+346,California,West,Technology,Phones,47.976,4.7976
+347,Massachusetts,East,Office Supplies,Art,7.56,3.0996
+348,Massachusetts,East,Office Supplies,Paper,24.56,11.5432
+349,Massachusetts,East,Office Supplies,Art,12.96,4.1472
+350,New York,East,Technology,Accessories,6.79,2.3086
+351,New York,East,Office Supplies,Paper,24.56,11.5432
+352,New York,East,Office Supplies,Binders,3.048,1.0668
+353,New York,East,Office Supplies,Paper,49.12,23.0864
+354,New York,East,Office Supplies,Binders,4355.168,1415.4296
+355,New York,East,Furniture,Bookcases,388.704,-4.8588
+356,New York,East,Office Supplies,Envelopes,8.26,3.7996
+357,New York,East,Office Supplies,Art,17.04,6.9864
+358,New York,East,Office Supplies,Paper,34.4,15.824
+359,North Carolina,South,Office Supplies,Paper,36.24,11.325
+360,Georgia,South,Office Supplies,Appliances,647.84,168.4384
+361,Georgia,South,Office Supplies,Labels,20.7,9.936
+362,New York,East,Office Supplies,Labels,20.7,9.936
+363,New York,East,Furniture,Chairs,488.646,86.8704
+364,New York,East,Office Supplies,Art,5.56,1.4456
+365,New York,East,Furniture,Furnishings,47.12,20.7328
+366,California,West,Office Supplies,Storage,211.96,8.4784
+367,Connecticut,East,Office Supplies,Binders,23.2,10.44
+368,Connecticut,East,Office Supplies,Supplies,7.36,0.1472
+369,Connecticut,East,Office Supplies,Storage,104.79,29.3412
+370,Connecticut,East,Furniture,Bookcases,1043.92,271.4192
+371,Texas,Central,Office Supplies,Paper,25.92,9.396
+372,Texas,Central,Office Supplies,Storage,53.424,4.6746
+373,Arizona,West,Office Supplies,Binders,8.16,-5.712
+374,Arizona,West,Technology,Accessories,1023.936,179.1888
+375,Arizona,West,Office Supplies,Art,9.24,0.924
+376,Arizona,West,Technology,Accessories,479.04,-29.94
+377,Illinois,Central,Office Supplies,Paper,99.136,30.98
+378,Massachusetts,East,Furniture,Tables,1488.424,-297.6848
+379,Texas,Central,Office Supplies,Appliances,8.652,-20.3322
+380,Texas,Central,Office Supplies,Storage,23.832,2.6811
+381,Texas,Central,Office Supplies,Binders,12.176,-18.8728
+382,California,West,Office Supplies,Paper,50.96,25.48
+383,California,West,Office Supplies,Binders,49.536,17.3376
+384,Michigan,Central,Technology,Accessories,41.9,8.799
+385,Florida,South,Furniture,Tables,375.4575,-157.0095
+386,Florida,South,Technology,Accessories,83.976,-1.0497
+387,Pennsylvania,East,Technology,Machines,482.34,-337.638
+388,Pennsylvania,East,Furniture,Furnishings,2.96,0.777
+389,Ohio,East,Office Supplies,Art,2.624,0.4264
+390,New York,East,Office Supplies,Binders,23.36,7.884
+391,New York,East,Technology,Accessories,39.98,13.5932
+392,Washington,West,Technology,Phones,246.384,27.7182
+393,Washington,West,Technology,Copiers,1799.97,701.9883
+394,Illinois,Central,Office Supplies,Binders,12.462,-20.5623
+395,Nevada,West,Office Supplies,Binders,75.792,25.5798
+396,Rhode Island,East,Office Supplies,Storage,49.96,9.4924
+397,Rhode Island,East,Office Supplies,Paper,12.96,6.2208
+398,Michigan,Central,Office Supplies,Supplies,70.12,21.036
+399,Texas,Central,Office Supplies,Storage,35.952,3.5952
+400,Texas,Central,Furniture,Bookcases,2396.2656,-317.1528
+401,Texas,Central,Office Supplies,Storage,131.136,-32.784
+402,Texas,Central,Technology,Accessories,57.584,0.7198
+403,Florida,South,Office Supplies,Paper,9.568,3.4684
+404,North Carolina,South,Office Supplies,Art,39.072,9.768
+405,New York,East,Office Supplies,Appliances,35.91,9.6957
+406,California,West,Technology,Accessories,179.95,37.7895
+407,California,West,Technology,Copiers,1199.976,434.9913
+408,California,West,Office Supplies,Paper,27.15,13.3035
+409,California,West,Furniture,Tables,1004.024,-112.9527
+410,California,West,Office Supplies,Paper,9.68,4.6464
+411,California,West,Office Supplies,Labels,28.35,13.608
+412,California,West,Office Supplies,Paper,55.98,27.4302
+413,California,West,Furniture,Bookcases,1336.829,31.4548
+414,California,West,Furniture,Chairs,113.568,-18.4548
+415,Washington,West,Office Supplies,Paper,139.86,65.7342
+416,Washington,West,Furniture,Chairs,307.136,26.8744
+417,California,West,Office Supplies,Art,95.92,25.8984
+418,California,West,Furniture,Chairs,383.8,38.38
+419,Kentucky,South,Office Supplies,Paper,5.78,2.8322
+420,California,West,Office Supplies,Art,9.32,2.7028
+421,California,West,Office Supplies,Envelopes,15.25,7.015
+422,Colorado,West,Technology,Accessories,196.752,56.5662
+423,Massachusetts,East,Furniture,Furnishings,56.56,14.7056
+424,Massachusetts,East,Office Supplies,Storage,32.7,8.502
+425,Mississippi,South,Furniture,Chairs,866.4,225.264
+426,Michigan,Central,Furniture,Furnishings,28.4,11.076
+427,Michigan,Central,Office Supplies,Binders,287.92,138.2016
+428,New York,East,Technology,Machines,69.99,30.0957
+429,Texas,Central,Office Supplies,Art,6.672,0.5004
+430,North Carolina,South,Office Supplies,Binders,189.588,-145.3508
+431,North Carolina,South,Technology,Accessories,408.744,76.6395
+432,North Carolina,South,Technology,Accessories,291.96,54.7425
+433,North Carolina,South,Office Supplies,Storage,4.768,-0.7748
+434,Massachusetts,East,Office Supplies,Storage,714.3,207.147
+435,Florida,South,Office Supplies,Binders,4.812,-3.6892
+436,Florida,South,Technology,Accessories,247.8,-18.585
+437,Illinois,Central,Technology,Machines,1007.979,43.1991
+438,Illinois,Central,Office Supplies,Paper,313.488,113.6394
+439,Texas,Central,Office Supplies,Paper,31.872,11.5536
+440,New York,East,Furniture,Chairs,207.846,2.3094
+441,Michigan,Central,Furniture,Furnishings,12.22,3.666
+442,Michigan,Central,Office Supplies,Storage,194.94,23.3928
+443,Michigan,Central,Office Supplies,Storage,70.95,20.5755
+444,Michigan,Central,Office Supplies,Paper,91.36,42.0256
+445,Michigan,Central,Furniture,Chairs,242.94,29.1528
+446,Michigan,Central,Office Supplies,Labels,22.05,10.584
+447,Indiana,Central,Furniture,Furnishings,2.91,1.3677
+448,New York,East,Office Supplies,Art,59.52,15.4752
+449,New York,East,Office Supplies,Storage,161.94,9.7164
+450,New York,East,Office Supplies,Art,263.88,71.2476
+451,New York,East,Office Supplies,Art,30.48,7.9248
+452,New York,East,Office Supplies,Art,9.84,2.8536
+453,New York,East,Technology,Phones,35.12,9.1312
+454,Ohio,East,Furniture,Tables,284.364,-75.8304
+455,Ohio,East,Office Supplies,Storage,665.408,66.5408
+456,Oklahoma,Central,Technology,Accessories,63.88,24.9132
+457,California,West,Furniture,Chairs,129.568,-24.294
+458,Illinois,Central,Furniture,Chairs,747.558,-96.1146
+459,Illinois,Central,Office Supplies,Envelopes,8.928,3.348
+460,Washington,West,Office Supplies,Appliances,103.92,36.372
+461,Washington,West,Technology,Accessories,899.91,377.9622
+462,Washington,West,Office Supplies,Binders,51.312,18.6006
+463,Arizona,West,Furniture,Furnishings,23.56,7.068
+464,Arizona,West,Furniture,Tables,1272.63,-814.4832
+465,Arizona,West,Office Supplies,Binders,28.485,-20.889
+466,Arizona,West,Office Supplies,Supplies,185.376,-34.758
+467,Arizona,West,Office Supplies,Appliances,78.272,5.8704
+468,Illinois,Central,Furniture,Furnishings,254.744,-312.0614
+469,Texas,Central,Furniture,Bookcases,205.3328,-36.2352
+470,Illinois,Central,Office Supplies,Binders,4.788,-7.9002
+471,New York,East,Office Supplies,Paper,55.48,26.6304
+472,California,West,Office Supplies,Storage,340.92,3.4092
+473,California,West,Furniture,Bookcases,222.666,10.4784
+474,California,West,Technology,Phones,703.968,87.996
+475,California,West,Office Supplies,Storage,92.52,24.9804
+476,California,West,Office Supplies,Paper,62.65,28.819
+477,California,West,Office Supplies,Paper,94.85,45.528
+478,California,West,Technology,Phones,95.76,7.182
+479,New York,East,Furniture,Furnishings,40.2,19.296
+480,New York,East,Office Supplies,Art,14.7,6.615
+481,New York,East,Office Supplies,Storage,704.25,84.51
+482,California,West,Technology,Accessories,9.09,1.9089
+483,New York,East,Office Supplies,Art,5.96,1.6688
+484,New York,East,Technology,Accessories,159.98,57.5928
+485,California,West,Office Supplies,Labels,29.6,14.8
+486,California,West,Furniture,Bookcases,514.165,-30.245
+487,California,West,Technology,Phones,279.96,17.4975
+488,Illinois,Central,Technology,Phones,2735.952,341.994
+489,Texas,Central,Technology,Phones,7.992,0.5994
+490,Texas,Central,Technology,Accessories,63.984,10.3974
+491,Texas,Central,Office Supplies,Art,70.368,6.1572
+492,New York,East,Office Supplies,Storage,449.15,8.983
+493,New York,East,Office Supplies,Envelopes,11.07,5.0922
+494,Washington,West,Technology,Accessories,93.98,13.1572
+495,Tennessee,South,Furniture,Tables,189.882,-94.941
+496,Arkansas,South,Office Supplies,Envelopes,105.42,51.6558
+497,California,West,Office Supplies,Binders,119.616,40.3704
+498,California,West,Furniture,Furnishings,255.76,81.8432
+499,California,West,Furniture,Chairs,241.568,18.1176
+500,California,West,Furniture,Furnishings,69.3,22.869
