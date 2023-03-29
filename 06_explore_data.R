@@ -3,6 +3,7 @@ print(haveTidyverse)
 ifelse(nchar(haveTidyverse) < 1, install.packages('tidyverse', dependencies = TRUE), NA)
 library(tidyverse)
 
+# Exploring data
 # It is about what data is missing and why ?  
 # do for each variable
 
