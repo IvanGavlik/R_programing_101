@@ -1,0 +1,38 @@
+
+R version 4.2.3 (2023-03-15) -- "Shortstop Beagle"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[Previously saved workspace restored]
+
+> # running r interactively
+> # best option inside R sution 
+> # in terminal type R use q() for quit 
+> 
+> 
+> # running r non-interactively
+> # 1. inside r script call another script by running source("foo.R") 
+> # 2. call from shell R CMD BATCH foo.R
+> # 3. call from shell Rscript foo.R
+> # 4. execute script #!/usr/bin/Rscript ./foot.r <inputFIle> <outputFile>
+> 
+> print("test")
+[1] "test"
+> 
+> proc.time()
+   user  system elapsed 
+  0.149   0.033   0.167 
